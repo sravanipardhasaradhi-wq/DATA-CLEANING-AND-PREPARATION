@@ -1,4 +1,4 @@
-# TASK 2: DATA CLEANING AND PREPROCESSING USING PYTHON
+# TASK 2: DATA CLEANING AND PREPARATION
 
 ## PROJECT OVERVIEW
 This project focuses on cleaning and preprocessing the Sample Superstore dataset using Python and the Pandas library. The objective was to identify missing values, remove duplicate records, convert data types, and export a cleaned dataset for further analysis.

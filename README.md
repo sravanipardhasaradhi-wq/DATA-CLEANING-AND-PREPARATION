@@ -30,6 +30,7 @@ The dataset contains sales transactions including:
 
 Number of Columns: 21
 
+The Sample Superstore dataset was used for this task. Due to dataset licensing/source availability, only the cleaned output file and processing code are included in this repository.
 ---
 
 ## TOOLS AND TECHNOLOGIES
